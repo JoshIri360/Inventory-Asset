@@ -1,7 +1,3 @@
-Certainly! Here's a template for a README file for your `inventorySystem` asset for the Unity Asset Store:
-
----
-
 # inventorySystem for Unity
 
 ## Description
